@@ -12,7 +12,7 @@ sections:
         url: '#features'
         style: primary
       - label: Read our Manifesto
-        url: lorem-ipsum
+        url: /manifesto
         style: link
         has_icon: false
         icon: arrow-left
