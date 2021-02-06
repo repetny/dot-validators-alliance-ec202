@@ -14,6 +14,7 @@ sections:
       - label: View Demo
         url: '#'
         style: secondary
+    image: images/11_thumb.jpg
   - section_id: call-to-action
     type: section_cta
     title: Join our community!
