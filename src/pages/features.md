@@ -25,17 +25,67 @@ sections:
         style: secondary
   - section_id: lorem-ipsum
     title: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      We believe in a decentralized, community-led society and we want Polkadot
+      to become one
+
+      We don’t agree with the current state where networks are led by the
+      whales, centralized companies and run only for the sake of profit
+
+      We are open to new members and participants sharing our views
+
+      We never validate on the network because of business
+
+      Validation is a service and its always connected with the support of our
+      communities and nominators
+
+      None of us will have more than one validator in any network because we
+      respect the decentralization
+
+      Our fees will never be higher than 10%
+
+      We are here for the long term, not just to quickly make profits out of the
+      emerging ecosystem
+
+      And lastly, we believe in the community-first approach, we are nothing
+      without the people who put their trust in us and we will always honor
+      that!
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-      - Lorem ipsum
+      1.  We believe in a decentralized, community-led society and we want
+      Polkadot to become one
 
-      - dolor sit amet
+
+      2.  We don’t agree with the current state where networks are led by the
+      whales, centralized companies and run only for the sake of profit
+
+
+      3.  We are open to new members and participants sharing our views
+
+
+      4.  We never validate on the network because of business
+
+
+      5.  Validation is a service and its always connected with the support of
+      our communities and nominators
+
+
+      6.  None of us will have more than one validator in any network because we
+      respect the decentralization
+
+
+      7.  Our fees will never be higher than 10%
+
+
+      8.  We are here for the long term, not just to quickly make profits out of
+      the emerging ecosystem
+
+
+      9.  And lastly, we believe in the community-first approach, we are nothing
+      without the people who put their trust in us and we will always honor
+      that!
     image_alt: lorem-ipsum
     background: gray
     actions: []
