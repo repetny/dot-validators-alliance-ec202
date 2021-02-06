@@ -107,8 +107,11 @@ sections:
       - author: lorem-ipsum
         avatar_alt: lorem-ipsum
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Hey, I’m Patrick from Germany and I’m representing pathrocknetwork and
+          MillenniumClub or MCLB. We are running several validators for
+          different projects and protocols and I am so happy to be able to join
+          the alliance of like-minded validators where we share similar goals
+          and values.
         type: review_item
   - section_id: call-to-action
     type: section_cta
