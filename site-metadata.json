@@ -50,7 +50,7 @@
                 "title": "Company",
                 "nav_links": [
                     {
-                        "label": "About Us",
+                        "label": "Manifesto",
                         "url": "/about",
                         "style": "link"
                     },
