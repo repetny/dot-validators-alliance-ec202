@@ -19,7 +19,7 @@
             {
                 "label": "Telegram",
                 "url": "/signup",
-                "style": "primary",
+                "style": "secondary",
                 "icon": "discord",
                 "has_icon": false
             }
