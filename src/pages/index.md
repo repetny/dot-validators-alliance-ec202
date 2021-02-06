@@ -119,7 +119,7 @@ sections:
     title: Join our community!
     subtitle: Get help and the latest news from Polkadot ecosystem.
     actions:
-      - label: Get Started
+      - label: Telegram
         url: /signup
         style: primary
   - section_id: recent-posts
