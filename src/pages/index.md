@@ -117,7 +117,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Join our community!
-    subtitle: This is an optional description for the call to action block.
+    subtitle: Get help and the latest news from Polkadot ecosystem.
     actions:
       - label: Get Started
         url: /signup
