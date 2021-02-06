@@ -5,7 +5,7 @@ image: images/about.jpg
 image_alt: Team members in a conference room
 seo:
   title: Manifesto
-  description: This is the about page
+  description: This is the manifesto page
   extra:
     - name: 'og:type'
       value: website
