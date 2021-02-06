@@ -30,7 +30,7 @@
                 "label": "Sign Up",
                 "url": "/signup",
                 "style": "primary",
-                "icon": "discord",
+                "icon": "instagram",
                 "has_icon": true
             }
         ]
