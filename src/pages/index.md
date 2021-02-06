@@ -11,7 +11,7 @@ sections:
       - label: Support Us
         url: '#features'
         style: primary
-      - label: Check our validators
+      - label: Read our Manifesto
         url: lorem-ipsum
         style: link
         has_icon: false
