@@ -90,6 +90,7 @@ sections:
     background: gray
     actions: []
     type: section_content
+    image: images/1.jpg
 seo:
   title: Features
   description: This is the features page
