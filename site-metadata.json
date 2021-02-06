@@ -79,7 +79,7 @@
                         "icon_position": "left"
                     },
                     {
-                        "label": "LinkedIn",
+                        "label": "Discord",
                         "url": "https://www.linkedin.com/",
                         "style": "link",
                         "has_icon": true,
