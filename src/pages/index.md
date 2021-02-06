@@ -104,7 +104,7 @@ sections:
           said to be a bet against blockchain maximalism, that’s why we united
           independent community-led initiatives around the world under one
           Alliance, so let’s jump on this exciting journey together!
-      - author: Pathrock
+      - author: 'Pathrocknetwork - Millenniumclub '
         avatar_alt: lorem-ipsum
         content: >-
           Hey, I’m Patrick from Germany and I’m representing pathrocknetwork and
