@@ -113,6 +113,7 @@ sections:
           the alliance of like-minded validators where we share similar goals
           and values.
         type: review_item
+        avatar: images/review3.jpg
   - section_id: call-to-action
     type: section_cta
     title: This Is Call To Action Block!
