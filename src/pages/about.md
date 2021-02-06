@@ -1,6 +1,6 @@
 ---
 title: Manifesto
-subtitle: What we believe in.
+subtitle: The set of principles we will always honor.
 image: images/about.jpg
 image_alt: Team members in a conference room
 seo:
