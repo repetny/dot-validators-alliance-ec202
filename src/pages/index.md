@@ -79,7 +79,7 @@ sections:
       order to support their healthy growth and the decentralization of the
       network.
     reviews:
-      - author: Eric Widget
+      - author: Polkadotters
         avatar: images/review1.jpg
         avatar_alt: Eric Widget's photo
         content: >-
