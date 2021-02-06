@@ -8,7 +8,7 @@ sections:
     title: DOT Validators Alliance
     content: "We are a group of community leaders who decided to dedicate their professional lives to the Polkadot and its diverse ecosystem.\_\n\n"
     actions:
-      - label: Nominate Us
+      - label: S
         url: /features
         style: primary
       - label: Check our validators
