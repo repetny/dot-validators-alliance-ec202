@@ -84,7 +84,9 @@ sections:
         avatar_alt: Eric Widget's photo
         content: >-
           Hi, I am Petr and I started the Polkadotters community with my
-          colleague Pavel.
+          colleague Pavel. We are really pleased to be a part of this initiative
+          because we believe that the community should be the one with power
+          over the network!
       - author: PromoTeam
         avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo
