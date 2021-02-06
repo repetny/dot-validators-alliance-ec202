@@ -4,7 +4,6 @@ sections:
   - section_id: features
     type: section_content
     background: gray
-    image: images/11_thumb.jpg
     image_alt: App preview on a phone and tablet
     title: Manifesto
     content: "We are a group of community leaders who decided to dedicate their professional lives to the Polkadot and its diverse ecosystem.\_\n\nEach of us created his own community, published the content, started validating on the network, and promoted Polkadot and its projects as much as he could. But most importantly, we started doing this because of the passion we share for the wonderful cryptocurrency technology - and the most promising project that is out there, the Polkadot!\n\nAside from publishing articles on Medium, tweeting about the newest events in the ecosystem, and supporting our community in understanding various aspects of Polkadot, we also validate on the network. We understand validation not only as a way to earn some profits (although that’s a nice bonus), we take it as a service to the network. What we care about the most is a healthy and organic growth of the ecosystem and we believe that only validators with deep roots in the community can provide that.\n"
