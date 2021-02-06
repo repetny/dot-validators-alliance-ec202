@@ -739,6 +739,7 @@ models:
           - twitter
           - vimeo
           - youtube
+          - discord
       - type: enum
         name: icon_position
         label: Icon position
