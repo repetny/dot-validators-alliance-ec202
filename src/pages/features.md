@@ -15,14 +15,6 @@ sections:
         url: '#'
         style: secondary
     image: images/11_thumb.jpg
-  - section_id: call-to-action
-    type: section_cta
-    title: Join our community!
-    subtitle: Get help and the latest news from Polkadot ecosystem.
-    actions:
-      - label: Get Started
-        url: '#'
-        style: secondary
   - section_id: lorem-ipsum
     title: ''
     content: >
@@ -91,6 +83,14 @@ sections:
     actions: []
     type: section_content
     image: images/1.jpg
+  - section_id: call-to-action
+    type: section_cta
+    title: Join our community!
+    subtitle: Get help and the latest news from Polkadot ecosystem.
+    actions:
+      - label: Get Started
+        url: '#'
+        style: secondary
 seo:
   title: Features
   description: This is the features page
