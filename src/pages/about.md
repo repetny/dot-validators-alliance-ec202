@@ -4,7 +4,7 @@ subtitle: The set of principles we will always honor.
 image: images/about.jpg
 image_alt: Team members in a conference room
 seo:
-  title: About Us
+  title: Manifesto
   description: This is the about page
   extra:
     - name: 'og:type'
