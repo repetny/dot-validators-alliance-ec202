@@ -1,8 +1,6 @@
 ---
 title: Manifesto
-subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
+subtitle: What we believe in.
 image: images/about.jpg
 image_alt: Team members in a conference room
 seo:
