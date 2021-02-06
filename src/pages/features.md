@@ -24,7 +24,7 @@ sections:
         url: '#'
         style: secondary
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: ''
     content: >
       We believe in a decentralized, community-led society and we want Polkadot
       to become one
