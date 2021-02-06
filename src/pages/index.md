@@ -6,9 +6,7 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Welcome to DOT Validators Alliance
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: "We are a group of community leaders who decided to dedicate their professional lives to the Polkadot and its diverse ecosystem.\_\n\n"
     actions:
       - label: Learn More
         url: /features
