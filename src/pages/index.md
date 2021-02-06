@@ -75,9 +75,9 @@ sections:
     background: white
     title: About Us
     subtitle: >-
-      This is a unique initiative set to unite the biggest and most prominent
-      Polkadot communities in order to support their healthy growth and the
-      decentralization of the network.
+      We aim to unite the biggest and most prominent Polkadot communities in
+      order to support their healthy growth and the decentralization of the
+      network.
     reviews:
       - author: Eric Widget
         avatar: images/review1.jpg
