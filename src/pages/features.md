@@ -10,7 +10,7 @@ sections:
     actions: []
     image: images/11_thumb.jpg
   - section_id: lorem-ipsum
-    title: ''
+    title: What we believe in
     content: >
       We believe in a decentralized, community-led society and we want Polkadot
       to become one
