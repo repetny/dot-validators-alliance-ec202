@@ -122,7 +122,7 @@ sections:
       - label: Telegram
         url: /signup
         style: primary
-        has_icon: true
+        has_icon: false
         icon: arrow-right
       - label: lorem-ipsum
         url: lorem-ipsum
