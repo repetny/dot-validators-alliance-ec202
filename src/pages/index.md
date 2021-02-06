@@ -84,22 +84,32 @@ sections:
         avatar_alt: Eric Widget's photo
         content: >-
           Hi, I am Petr and I started the Polkadotters community with my
-          colleague Pavel. We are really pleased to be a part of this initiative
-          because we believe that the community should be the one with power
-          over the network!
+          colleague Pavel. We are from Czechia, a small country in the heart of
+          Europe. We are really pleased to be a part of this initiative because
+          we believe that the community should be the one with power over the
+          network!
       - author: PromoTeam
         avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
+          At PromoTeam we believe that validation is a philosophical
+          contribution. Acting as your voice in the network and means of
+          collaborating with the community. We believe that the validation role
+          goes beyond just producing blocks and have constant uptime.
       - author: Repe
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+          As a developer, I often like to look "under the hood". Polkadot is
+          said to be a bet against blockchain maximalism, that’s why we united
+          independent community-led initiatives around the world under one
+          Alliance, so let’s jump on this exciting journey together!
+      - author: lorem-ipsum
+        avatar_alt: lorem-ipsum
+        content: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        type: review_item
   - section_id: call-to-action
     type: section_cta
     title: This Is Call To Action Block!
