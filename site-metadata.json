@@ -31,7 +31,7 @@
                 "url": "/signup",
                 "style": "primary",
                 "icon": "discord",
-                "has_icon": true
+                "has_icon": false
             }
         ]
     },
