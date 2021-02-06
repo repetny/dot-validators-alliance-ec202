@@ -9,7 +9,7 @@ sections:
     content: "We are a group of community leaders who decided to dedicate their professional lives to the Polkadot and its diverse ecosystem.\_\n\n"
     actions:
       - label: Support Us
-        url: ''
+        url: '#'
         style: primary
       - label: Check our validators
         url: lorem-ipsum
