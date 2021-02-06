@@ -1,7 +1,7 @@
 ---
 title: Features
 sections:
-  - section_id: features
+  - section_id: manifesto
     type: section_content
     background: gray
     image_alt: App preview on a phone and tablet
