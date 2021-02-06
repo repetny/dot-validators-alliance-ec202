@@ -124,7 +124,7 @@ sections:
         style: primary
         has_icon: false
         icon: arrow-right
-      - label: lorem-ipsum
+      - label: Discord
         url: lorem-ipsum
         style: link
         has_icon: false
