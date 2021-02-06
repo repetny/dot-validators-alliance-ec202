@@ -51,7 +51,7 @@
                 "nav_links": [
                     {
                         "label": "Manifesto",
-                        "url": "/about",
+                        "url": "/manifesto",
                         "style": "link"
                     },
                     {
