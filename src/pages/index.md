@@ -24,9 +24,7 @@ sections:
     type: section_features
     background: gray
     title: Our validators
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: Support our
     features:
       - title: Kusama
         image: images/feature1.png
