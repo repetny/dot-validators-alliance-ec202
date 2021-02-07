@@ -1,5 +1,5 @@
 ---
-title: Our
+title: Our validators
 sections:
   - section_id: manifesto
     type: section_content
