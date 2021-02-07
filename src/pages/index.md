@@ -44,7 +44,8 @@ sections:
 
         actions:
           - label: Nominate
-            url: /features
+            url: >-
+              https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fkusama-rpc.polkadot.io#/staking
             style: secondary
             has_icon: true
             icon: arrow-right
