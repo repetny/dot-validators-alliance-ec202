@@ -20,7 +20,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-  - section_id: features
+  - section_id: Our
     type: section_features
     background: gray
     title: Features
