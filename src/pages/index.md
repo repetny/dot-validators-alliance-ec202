@@ -24,7 +24,7 @@ sections:
     type: section_features
     background: gray
     title: Nominations
-    subtitle: 'Please use this to nominate signers of Manifesto '
+    subtitle: 'Please use this to nominate signers of Manifesto. '
     features:
       - title: Kusama
         image: images/feature1.png
