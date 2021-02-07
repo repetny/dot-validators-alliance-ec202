@@ -43,7 +43,7 @@ sections:
           *   FVAFUJhJy9tj1X4PaEXX3tDzjaBEVsVunABAdsDMD4ZYmWA
 
         actions:
-          - label: Learn More
+          - label: Nominate
             url: /features
             style: secondary
             has_icon: true
