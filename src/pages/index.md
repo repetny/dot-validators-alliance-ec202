@@ -166,9 +166,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Azimuth Theme
+      value: DOT Validators Alliance
     - name: 'twitter:description'
-      value: The preview of the Azimuth theme
+      value: DOT Validators Alliance
     - name: 'twitter:image'
       value: images/hero.png
       relativeUrl: true
