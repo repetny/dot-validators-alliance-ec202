@@ -1,5 +1,5 @@
 ---
-title: Features
+title: Our
 sections:
   - section_id: manifesto
     type: section_content
