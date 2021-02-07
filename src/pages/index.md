@@ -20,7 +20,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-  - section_id: validators
+  - section_id: nominate
     type: section_features
     background: gray
     title: Our validators
