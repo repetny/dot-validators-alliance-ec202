@@ -23,7 +23,7 @@ sections:
   - section_id: nominate
     type: section_features
     background: gray
-    title: Nominatios
+    title: Nominations
     subtitle: Support our
     features:
       - title: Kusama
