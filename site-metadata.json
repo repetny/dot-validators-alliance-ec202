@@ -40,7 +40,7 @@
         "sections": [
             {
                 "type": "footer_text",
-                "image": "images/logo-alt.svg",
+                "image": "images/good-celery.png",
                 "image_url": "/",
                 "image_alt": "Footer logo",
                 "content": "Community initiative\n"
