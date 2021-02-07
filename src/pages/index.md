@@ -148,7 +148,7 @@ sections:
     title: Latest Posts
 seo:
   title: DOT Validators Alliance
-  description: The preview of the Azimuth theme
+  description: DOT Validators Alliance
   extra:
     - name: 'og:type'
       value: website
