@@ -157,7 +157,7 @@ seo:
       value: DOT Validators Alliance
       keyName: property
     - name: 'og:description'
-      value: The preview of the Azimuth theme
+      value: DOT Validators Alliance
       keyName: property
     - name: 'og:image'
       value: images/hero.png
