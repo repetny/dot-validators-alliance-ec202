@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: DOT Validators Alliance
+    title: DOT Validator Alliance
     content: "We are a group of community leaders who decided to dedicate their professional lives to the Polkadot and its diverse ecosystem.\_\n\n"
     actions:
       - label: Support Us
