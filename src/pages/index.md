@@ -74,7 +74,8 @@ sections:
           *   Polkadotters - 16A4n4UQqgxw5ndeehPjUAobDNmuX2bBoPXVKj4xTe16ktRN
         actions:
           - label: Learn More
-            url: /features
+            url: >-
+              https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.polkadot.io#/staking
             style: secondary
             has_icon: true
             icon: arrow-right
