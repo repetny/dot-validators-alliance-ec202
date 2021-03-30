@@ -123,7 +123,7 @@ sections:
       network.
     reviews:
       - author: Polkadotters
-        avatar: images/review1.jpg
+        avatar: images/polkadotters.jpg
         avatar_alt: Eric Widget's photo
         content: >-
           Hi, I am Petr and I started the Polkadotters community with my
