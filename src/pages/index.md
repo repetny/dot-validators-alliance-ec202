@@ -108,7 +108,7 @@ sections:
           *   Polkadotters 32cHeCGWM3X8W8ypxxCaCgE43BpHt6QtmPFKKMFS7NG1QphQ
         actions:
           - label: Learn More
-            url: /features
+            url: 'https://apps.stafi.io/#/explorer'
             style: secondary
             has_icon: true
             icon: arrow-right
