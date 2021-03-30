@@ -132,7 +132,7 @@ sections:
           we believe that the community should be the one with power over the
           network!
       - author: PromoTeam
-        avatar: images/review2.jpg
+        avatar: images/promoteam.png
         avatar_alt: Parsley Montana's photo
         content: >-
           At PromoTeam we believe that validation is a philosophical
