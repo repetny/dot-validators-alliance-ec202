@@ -61,10 +61,12 @@ sections:
       - title: Polkadot
         image: images/feature2.png
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: >
+          *   Stakenode_Powernode -
+          15awHgV1np9jxyWC7pnMWAEgg8z2toLuCcJfWjtmA1cWHWQr
+
+
+          *   Polkadotters - 16A4n4UQqgxw5ndeehPjUAobDNmuX2bBoPXVKj4xTe16ktRN
         actions:
           - label: Learn More
             url: /features
