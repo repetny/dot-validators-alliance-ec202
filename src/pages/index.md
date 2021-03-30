@@ -62,6 +62,11 @@ sections:
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >
+          Polkadot is a heterogeneous multi-chain interchange and translation
+          architecture which enables customised side-chains to connect with
+          public blockchains.
+
+
           *   Stakenode_Powernode -
           15awHgV1np9jxyWC7pnMWAEgg8z2toLuCcJfWjtmA1cWHWQr
 
