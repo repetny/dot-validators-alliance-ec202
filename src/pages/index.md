@@ -29,7 +29,7 @@ sections:
       - title: Kusama
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >+
+        content: >
           Kusama is a scalable multi-chain network for radical innovation and
           early stage Polkadot deployments. Expect Chaos. No promises.
 
@@ -37,11 +37,18 @@ sections:
           Our KSM validators:
 
 
-          *   FaBN1AxtJu21x2cUqvdF5VcVUAfzfqyvJPvwgsdwo3pkdr9
+          *   REPE - FaBN1AxtJu21x2cUqvdF5VcVUAfzfqyvJPvwgsdwo3pkdr9
 
 
-          *   FVAFUJhJy9tj1X4PaEXX3tDzjaBEVsVunABAdsDMD4ZYmWA
+          *   Polkadotters - FVAFUJhJy9tj1X4PaEXX3tDzjaBEVsVunABAdsDMD4ZYmWA
 
+
+          *   PromoTeam Validator -
+          Dm4uKxZJZHJbpZpfnYPiHnbgyHWKMU1s5h6X7kqjfYv1Xkk
+
+
+          *   Stakenode_Powernode -
+          CuiwESD49ggEAQ9131Gt948xw11PiWQNXkuR2R2Jt7rYSck
         actions:
           - label: Nominate
             url: >-
