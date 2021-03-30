@@ -80,6 +80,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+            new_window: true
       - title: Stafi
         image: images/feature3.png
         image_alt: App user profile preview
