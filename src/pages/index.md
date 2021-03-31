@@ -205,7 +205,7 @@ sections:
         has_icon: false
         icon: arrow-right
       - label: Discord
-        url: lorem-ipsum
+        url: 'https://discord.gg/YUUStKka'
         style: primary
         has_icon: false
         icon: arrow-left
