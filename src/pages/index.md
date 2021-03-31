@@ -123,7 +123,7 @@ sections:
           *   Polkadotters 7K296SU5tGTCkpYntSonyohsvvCZr2wmaKzCf9Ed6rAv6ij1
         image_alt: lorem-ipsum
         actions:
-          - label: lorem-ipsum
+          - label: Nominate
             url: lorem-ipsum
             style: link
             has_icon: false
