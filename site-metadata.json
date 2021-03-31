@@ -107,13 +107,7 @@
             }
         ],
         "has_nav": true,
-        "nav_links": [
-            {
-                "label": "Privacy Policy",
-                "url": "/privacy-policy",
-                "style": "link"
-            }
-        ],
+        "nav_links": [],
         "content": "&copy; DOT Validators Alliance. All rights reserved."
     },
     "title": "DOT-Validators-Alliance",
