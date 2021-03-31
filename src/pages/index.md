@@ -67,10 +67,6 @@ sections:
           public blockchains.
 
 
-          *   Stakenode_Powernode -
-          15awHgV1np9jxyWC7pnMWAEgg8z2toLuCcJfWjtmA1cWHWQr
-
-
           *   Polkadotters - 16A4n4UQqgxw5ndeehPjUAobDNmuX2bBoPXVKj4xTe16ktRN
         actions:
           - label: Nominate
