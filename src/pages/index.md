@@ -126,7 +126,7 @@ sections:
           - label: Nominate
             url: >-
               https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc-01.snakenet.hydradx.io#/staking
-            style: primary
+            style: secondary
             has_icon: false
             icon: arrow-left
             icon_position: left
