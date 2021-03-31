@@ -152,7 +152,7 @@ sections:
           - label: Nominate
             url: >-
               https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.darwinia.network#/staking
-            style: link
+            style: secondary
             has_icon: false
             icon: arrow-left
             icon_position: left
