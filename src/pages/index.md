@@ -224,10 +224,6 @@ sections:
         new_window: false
         no_follow: false
         type: action
-  - section_id: recent-posts
-    type: section_posts
-    background: gray
-    title: Latest Posts
 seo:
   title: DOT Validators Alliance
   description: DOT Validators Alliance
