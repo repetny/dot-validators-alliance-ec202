@@ -127,12 +127,16 @@ sections:
         image: images/hydradx.png
       - title: Darwinia Network
         content: >
-          HydraDX is a cross-chain liquidity protocol built on Substrate. It is
-          a base layer for financial use cases, currently - immediate exchanging
-          assets.
+          Darwinia Network is a decentralized cross-chain bridge network
+          building on Substrate, which is the “Golden Gate Bridge” of the
+          cross-chain ecology.
 
 
-          *   Polkadotters 7K296SU5tGTCkpYntSonyohsvvCZr2wmaKzCf9Ed6rAv6ij1
+          *   Polkadotters (Darwinia)
+          2q2y8DBhaTmgC2Au9tSXSshCkDXhmj9rPW945yxqBf52rGRK
+
+          *   Polkadotters (Darwinia Crab)
+          5DvoL2BNoSm7wRt2tfZ6WW5QFrxm68GLv5SCrPQ4JBLjbvpL
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
