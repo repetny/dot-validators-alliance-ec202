@@ -98,13 +98,6 @@ sections:
           *   oceanblock-ov 35pwfNAzJKnnSxjbdoN8DdNPvXE2ChXiHL4Z4N5oDFdhMPoU
 
 
-          *   Stakenode - 353SjE5jZNE3HsQxJr42QAazGzQ4KThwwR6U8sfzYjQpuSiv
-
-
-          *   Stakenode Powernode -
-          31tyuA9tSMdUasMS7zPycu8vnYkEmpNHdC37ELuhKtxkMXTK
-
-
           *   Polkadotters 32cHeCGWM3X8W8ypxxCaCgE43BpHt6QtmPFKKMFS7NG1QphQ
         actions:
           - label: Nominate
