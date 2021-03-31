@@ -149,7 +149,7 @@ sections:
           5DvoL2BNoSm7wRt2tfZ6WW5QFrxm68GLv5SCrPQ4JBLjbvpL
         image_alt: lorem-ipsum
         actions:
-          - label: lorem-ipsum
+          - label: Nominate
             url: lorem-ipsum
             style: link
             has_icon: false
