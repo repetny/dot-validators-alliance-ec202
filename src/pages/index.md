@@ -6,7 +6,7 @@ sections:
     image: images/undraw_server_cluster_jwwq.svg
     image_alt: App preview
     title: DOT Validator Alliance
-    content: "We are a group of community leaders who decided to dedicate their professional lives to the Polkadot and its diverse ecosystem.\_\n\n"
+    content: "We are a group of community leaders who decided to dedicate their professional lives to the Polkadot and its diverse ecosystem.\_\n\n\n\nby Polkadotters, Promo Team, Repe, Pathrock Network\n"
     actions:
       - label: Support Us
         url: '#nominate'
