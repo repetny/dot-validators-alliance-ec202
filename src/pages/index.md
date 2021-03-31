@@ -177,7 +177,7 @@ sections:
           collaborating with the community. We believe that the validation role
           goes beyond just producing blocks and have constant uptime.
       - author: Repe
-        avatar: images/repetny.jpg
+        avatar: images/repetny.png
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
           As a developer, I often like to look "under the hood". Polkadot is
