@@ -211,7 +211,7 @@ sections:
     subtitle: Get help and the latest news from Polkadot ecosystem.
     actions:
       - label: Telegram
-        url: /signup
+        url: 'https://t.me/DotValidators'
         style: primary
         has_icon: false
         icon: arrow-right
