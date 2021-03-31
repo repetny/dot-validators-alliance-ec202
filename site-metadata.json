@@ -18,7 +18,7 @@
             },
             {
                 "label": "Telegram",
-                "url": "/signup",
+                "url": "https://t.me/DotValidators",
                 "style": "link",
                 "icon": "discord",
                 "has_icon": false
