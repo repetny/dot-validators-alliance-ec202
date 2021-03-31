@@ -27,7 +27,7 @@ sections:
     subtitle: 'Please use this to nominate signers of Manifesto. '
     features:
       - title: Kusama
-        image: images/feature1.png
+        image: images/kusama.png
         image_alt: App preview on a phone and tablet
         content: >
           Kusama is a scalable multi-chain network for radical innovation and
