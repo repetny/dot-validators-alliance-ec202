@@ -125,7 +125,7 @@ sections:
         actions: []
         type: feature_item
         image: images/hydradx.png
-      - title: lorem-ipsum
+      - title: Darwinia Network
         content: >-
           ## Lorem ipsum
 
