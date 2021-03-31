@@ -59,7 +59,7 @@ sections:
             icon_position: right
             new_window: true
       - title: Polkadot
-        image: images/polkadot.png
+        image: images/modern-kangaroo.png
         image_alt: App users welcoming a new member
         content: >
           Polkadot is a heterogeneous multi-chain interchange and translation
