@@ -82,7 +82,7 @@ sections:
             icon_position: right
             new_window: true
       - title: Stafi
-        image: images/hydradx.png
+        image: images/stafi.png
         image_alt: App user profile preview
         content: >
           Stafi (short for Staking Finance) is a DeFi protocol that aims to
