@@ -114,17 +114,13 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: HydraDX
-        content: >-
-          ## Lorem ipsum
+        content: >
+          HydraDX is a cross-chain liquidity protocol built on Substrate. It is
+          a base layer for financial use cases, currently - immediate exchanging
+          assets.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   Polkadotters 7K296SU5tGTCkpYntSonyohsvvCZr2wmaKzCf9Ed6rAv6ij1
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
