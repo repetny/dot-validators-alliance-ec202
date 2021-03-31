@@ -124,7 +124,8 @@ sections:
         image_alt: lorem-ipsum
         actions:
           - label: Nominate
-            url: lorem-ipsum
+            url: >-
+              https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc-01.snakenet.hydradx.io#/staking
             style: link
             has_icon: false
             icon: arrow-left
