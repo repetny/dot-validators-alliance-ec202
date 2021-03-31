@@ -184,7 +184,7 @@ sections:
           the alliance of like-minded validators where we share similar goals
           and values.
         type: review_item
-        avatar: images/review3.jpg
+        avatar: images/pathrock.jpg
   - section_id: call-to-action
     type: section_cta
     title: Join our community!
