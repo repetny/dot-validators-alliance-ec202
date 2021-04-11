@@ -227,7 +227,7 @@ sections:
         no_follow: false
         type: action
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Blog posts
     subtitle: lorem-ipsum
     background: gray
     type: section_posts
