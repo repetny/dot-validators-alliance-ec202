@@ -11,8 +11,7 @@ image: images/modern-kangaroo.png
 image_alt: A group of people working in a cafe
 seo:
   title: Tutorial - how to stake Polkadot/Kusama on-chain
-  description: >-
-    Tutorial: how to stake Polkadot/Kusama on-chain
+  description: 'Tutorial: how to stake Polkadot/Kusama on-chain'
   extra:
     - name: 'og:type'
       value: website
@@ -21,8 +20,7 @@ seo:
       value: Tutorial - how to stake Polkadot/Kusama on-chain
       keyName: property
     - name: 'og:description'
-      value: >-
-        Tutorial: how to stake Polkadot/Kusama on-chain.
+      value: 'Tutorial: how to stake Polkadot/Kusama on-chain.'
       keyName: property
     - name: 'og:image'
       value: images/3.jpg
@@ -33,8 +31,7 @@ seo:
     - name: 'twitter:title'
       value: Tutorial - how to stake Polkadot/Kusama on-chain
     - name: 'twitter:description'
-      value: >-
-        Tutorial: how to stake Polkadot/Kusama on-chain
+      value: 'Tutorial: how to stake Polkadot/Kusama on-chain'
     - name: 'twitter:image'
       value: images/3.jpg
       relativeUrl: true
@@ -305,9 +302,9 @@ Go to the *Account actions* menu.![](https://miro.medium.com/max/1733/1\*CGKsrS8
 
 Click on *+Stash* (the *+Nominator* button will not work since Ledger device does not support batch transactions)*.*![](https://miro.medium.com/max/1071/0\*UipEtHYZ66s70x4f)*Bonding funds*
 
-Set the** total amount you want to bond for your nominations**, then click on the *Bond* button.![](https://miro.medium.com/max/1159/0\*\_GkfO4-V7cGd4eyU)*Sign bonding transaction*
+Set the\*\* total amount you want to bond for your nominations\*\*, then click on the *Bond* button.![](https://miro.medium.com/max/1159/0\*\_GkfO4-V7cGd4eyU)*Sign bonding transaction*
 
-**
+\*\*
 
 Click on *Sign and Submit*, then review and approve the transaction on the Ledger device.![](https://miro.medium.com/max/1596/0\*zszfJRc7OfDgB1sB)*Nominator account with bonded funds*
 
@@ -317,11 +314,11 @@ Your funds are bonded, now you are ready to nominate. Click on the *Nominate* bu
 
 ![](https://miro.medium.com/max/1065/1\*YL7FvzpM9fw7zi6uWd8TBQ.png)*Select validators*
 
-\*\*Here, you have to **search for the validators** you want to select in the **left panel **and click on it to move it to the right panel that represents the **accounts you nominate**. *See *[*recommended validators*](https://medium.com/bld-nodes/tutorial-how-to-stake-polkadot-kusama-on-chain-5ae50bd95aad#590c)
+\*\*Here, you have to **search for the validators** you want to select in the \*\*left panel \*\*and click on it to move it to the right panel that represents the **accounts you nominate**. \*See \*[*recommended validators*](https://medium.com/bld-nodes/tutorial-how-to-stake-polkadot-kusama-on-chain-5ae50bd95aad#590c)
 
 When you have selected all the validators you want, click on *Nominate.*
 
-**![](https://miro.medium.com/max/1187/0\*qAg3UK2eqBE-tH45)
+\*\*![](https://miro.medium.com/max/1187/0\*qAg3UK2eqBE-tH45)
 
 Click on *Sign and Submit*, then review and approve the transaction on the Ledger device.
 
@@ -337,15 +334,13 @@ Here you can find the list of trustful and independent validators that we know t
 
 ## Kusama Network
 
-*   bLd Nodes (us): Hf8C626KBAjitMV7w8AhQWDCiPgUU47htEwbomq5mDMKeyL
+*   bLd Nodes: Hf8C626KBAjitMV7w8AhQWDCiPgUU47htEwbomq5mDMKeyL
 
 *   REPE: FaBN1AxtJu21x2cUqvdF5VcVUAfzfqyvJPvwgsdwo3pkdr9
 
 *   Polkadotters: FVAFUJhJy9tj1X4PaEXX3tDzjaBEVsVunABAdsDMD4ZYmWA
 
 *   PromoTeam Validator: Dm4uKxZJZHJbpZpfnYPiHnbgyHWKMU1s5h6X7kqjfYv1Xkk
-
-*   Stakenode_Powernode: CuiwESD49ggEAQ9131Gt948xw11PiWQNXkuR2R2Jt7rYSck
 
 ## Polkadot Network
 
