@@ -194,7 +194,7 @@ sections:
           and values.
         type: review_item
         avatar: images/pathrock.jpg
-      - author: lorem-ipsum
+      - author: bLd nodes
         avatar_alt: lorem-ipsum
         content: >-
           I’m bLd from France. Little last one, I started my journey with a few
