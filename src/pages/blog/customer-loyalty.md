@@ -1,5 +1,5 @@
 ---
-title: Customer Loyalty Programs That Stick
+title: 'Tutorial: how to stake Polkadot/Kusama on-chain'
 subtitle: A story about customer loyalty
 author: src/data/authors/jane-doe.yaml
 excerpt: >-
