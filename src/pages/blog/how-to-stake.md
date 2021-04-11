@@ -12,8 +12,7 @@ image_alt: A group of people working in a cafe
 seo:
   title: Tutorial - how to stake Polkadot/Kusama on-chain
   description: >-
-    A story about customer loyalty curabitur sed consectetur nisi. Integer sit
-    amet commodo massa.
+    Tutorial: how to stake Polkadot/Kusama on-chain
   extra:
     - name: 'og:type'
       value: website
