@@ -197,8 +197,18 @@ sections:
       - author: lorem-ipsum
         avatar_alt: lorem-ipsum
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          I’m bLd from France. Little last one, I started my journey with a few
+          geek friends a few months ago, we created bLd Nodes for our first
+          validator node on Kusama. With our experience in sysadmin and
+          blockchain development, we aim to provide a secure and reliable
+          service for our validator nodes.We are Plasm Network ambassadors, also
+          involved in building with the KodaDot project team.We love building
+          stuff everywhere around the Polkadot ecosystem: monitoring dashboard
+          for validators, Plasm node for Raspberry PI… besides smart contract
+          and the amazing language Ink!, much more fun than Solidity that we
+          know for years.Joining the alliance is a great honor for us, we truly
+          believe in a fully decentralized world made of many independant,
+          conscientious and skilled validators to secure the common good.
         type: review_item
   - section_id: call-to-action
     type: section_cta
