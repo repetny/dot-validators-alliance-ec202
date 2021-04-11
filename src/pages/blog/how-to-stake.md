@@ -19,7 +19,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Tutorial: how to stake Polkadot/Kusama on-chain
+      value: Tutorial - how to stake Polkadot/Kusama on-chain
       keyName: property
     - name: 'og:description'
       value: >-
