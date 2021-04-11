@@ -49,6 +49,10 @@ sections:
 
           *   Stakenode_Powernode -
           CuiwESD49ggEAQ9131Gt948xw11PiWQNXkuR2R2Jt7rYSck
+
+
+          *   bLd Stacking Node -
+          Hf8C626KBAjitMV7w8AhQWDCiPgUU47htEwbomq5mDMKeyL
         actions:
           - label: Nominate
             url: >-
