@@ -228,7 +228,6 @@ sections:
         type: action
   - section_id: lorem-ipsum
     title: Blog posts
-    subtitle: lorem-ipsum
     background: gray
     type: section_posts
 seo:
