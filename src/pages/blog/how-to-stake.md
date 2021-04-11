@@ -32,7 +32,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Tutorial: how to stake Polkadot/Kusama on-chain
+      value: Tutorial - how to stake Polkadot/Kusama on-chain
     - name: 'twitter:description'
       value: >-
         A story about customer loyalty curabitur sed consectetur nisi. Integer
