@@ -148,19 +148,19 @@ Go to the *Network / Staking tab.*
 
 *Staking tab*
 
-**
+\*\*
 
 Go to the *Account actions* menu.![](https://miro.medium.com/max/1819/1\*etzMaOF7fnovNXPO9qaarw.png)*Account actions in the Staking tab*
 
-**
+\*\*
 
 Click on *+Nominator.*![](https://miro.medium.com/max/1133/1\*gkFvMaM_DMyclNcqDKwNqw.png)*Bonding funds*
 
-Select the stash and controller account. Set the** total amount you want to bond for your nominations**, then click on the *next* button.
+Select the stash and controller account. Set the\*\* total amount you want to bond for your nominations\*\*, then click on the *next* button.
 
 ![](https://miro.medium.com/max/1136/1\*ZlcIaXgeK_GI9GUi59eFYg.png)*Select validators*
 
-Here, you have to **search for the validators** you want to select in the **left panel **and click on it to move it to the right panel that represents the **accounts you nominate**. *See *[*recommended validators*](https://medium.com/bld-nodes/tutorial-how-to-stake-polkadot-kusama-on-chain-5ae50bd95aad#590c)
+Here, you have to **search for the validators** you want to select in the \*\*left panel \*\*and click on it to move it to the right panel that represents the **accounts you nominate**. \*See \*[*recommended validators*](https://medium.com/bld-nodes/tutorial-how-to-stake-polkadot-kusama-on-chain-5ae50bd95aad#590c)
 
 Then, click on *Bond & Nominate* to send the transaction.
 
@@ -173,8 +173,8 @@ And that’s it, you have successfully set your nominations, your funds work for
 # Staking with a Ledger wallet
 
 If
- you have a Ledger wallet and you prefer to nominate with it, you will 
-not be able to have 2 separate accounts as this function is not yet 
+you have a Ledger wallet and you prefer to nominate with it, you will
+not be able to have 2 separate accounts as this function is not yet
 available (we are writing this guide in April 2021).
 
 You have the choice to stake either from:
@@ -201,9 +201,9 @@ We will use here the staking function directly from the [**Ledger Live**](https:
 
 *   Find Polkadot or Kusama in the app catalog and install it.
 
-![](https://miro.medium.com/max/60/1\*vxIc1cn9C2MXBSKyxq49Zg.png?q=20)![](https://miro.medium.com/max/1023/1\*vxIc1cn9C2MXBSKyxq49Zg.png)*Ledger Live Manager*
+![](https://miro.medium.com/max/1023/1\*vxIc1cn9C2MXBSKyxq49Zg.png)*Ledger Live Manager*
 
-Then, open the *Accounts *tab.![](https://miro.medium.com/max/60/0\*o6W0P7VrZBy5xn6l?q=20)![](https://miro.medium.com/max/996/0\*o6W0P7VrZBy5xn6l)*Ledger Live Accounts*
+Then, open the \*Accounts \*tab.![](https://miro.medium.com/max/60/0\*o6W0P7VrZBy5xn6l?q=20)![](https://miro.medium.com/max/996/0\*o6W0P7VrZBy5xn6l)*Ledger Live Accounts*
 
 Click on *Add account*.
 
@@ -213,35 +213,31 @@ Select the network (Polkadot or Kusama) and then follow the steps to create your
 
 ## Funding the account
 
-Next, you need to **add funds** to your **stash account**,
- from another account or from a centralized exchange (if you don’t have 
-any, maybe you can ask your grandma to send you some :-)).
+Next, you need to **add funds** to your **stash account**, From another account or from a centralized exchange (if you don’t have any, maybe you can ask your grandma to send you some :-)).
 
 ## Bond funds and nominate
 
 From the *Account* menu, open your account details.
 
-**
+\*\*
 
 ![](https://miro.medium.com/max/989/1\*cl8iYwIVoV47iP8\_c3anuQ.png)*Account details*
 
-**
+\*\*
 
 click on *Earn rewards.*
 
-**![](https://miro.medium.com/max/54/1\*MBUZUQwi22gOL8o1031GAQ.png?q=20)![](https://miro.medium.com/max/495/1\*MBUZUQwi22gOL8o1031GAQ.png)
+\*\*![](https://miro.medium.com/max/54/1\*MBUZUQwi22gOL8o1031GAQ.png?q=20)![](https://miro.medium.com/max/495/1\*MBUZUQwi22gOL8o1031GAQ.png)
 
 *Bonding amount screen*
 
-
-
-Set the **total amount you want to bond** for your nominations and *Continue. *Once your funds are bonded, click on *Nominate*.
+Set the **total amount you want to bond** for your nominations and \*Continue. \*Once your funds are bonded, click on *Nominate*.
 
 ![](https://miro.medium.com/max/715/1\*drKl08i3a3JkcqSlds711Q.png)
 
 *Selecting validators*
 
-Here, you have to **search for the validators** you want to select and tick the box on the right. *See *[*recommended validators*](https://medium.com/bld-nodes/tutorial-how-to-stake-polkadot-kusama-on-chain-5ae50bd95aad#590c)
+Here, you have to **search for the validators** you want to select and tick the box on the right. \*See \*[*recommended validators*](https://medium.com/bld-nodes/tutorial-how-to-stake-polkadot-kusama-on-chain-5ae50bd95aad#590c)
 
 And that’s it, you have successfully set your nominations, your funds work for you now!
 
@@ -259,9 +255,9 @@ All operations are made through the [**Polkadot JS app**](https://polkadot.js.or
 
 First, go to the *Settings* tab.
 
-![](https://miro.medium.com/max/60/1\*qRv34tknFJ4NPZS-XuQS7Q.png?q=20)![](https://miro.medium.com/max/1750/1\*qRv34tknFJ4NPZS-XuQS7Q.png)*Polkadot JS app settings*
+![](https://miro.medium.com/max/1750/1\*qRv34tknFJ4NPZS-XuQS7Q.png)*Polkadot JS app settings*
 
-**
+\*\*
 
 select *Attach Ledger via WebUSB* and *Save.*
 
@@ -273,26 +269,29 @@ Select the network in the up left corner and click the *Switch* button:
 
 *Select network*
 
-You can also use these direct links for [Polkadot](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.polkadot.io#/accounts) and [Kusama](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fkusama-rpc.polkadot.io#/accounts).![](https://miro.medium.com/max/1829/1\*rRp9V3cmJd7\_KSG4HT22tA.png)*Account page of Polkadot’s app*
+You can also use these direct links for [Polkadot](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.polkadot.io#/accounts) and [Kusama](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fkusama-rpc.polkadot.io#/accounts).
 
-On your Ledger device, select the Polkadot menu to see Polkadot Ready on it (looks like my fingers were dirty…).![](https://miro.medium.com/max/60/0\*sd9IR5zpYjqTYyl9?q=20)![](https://miro.medium.com/max/828/0\*sd9IR5zpYjqTYyl9)
+![](https://miro.medium.com/max/1829/1\*rRp9V3cmJd7\_KSG4HT22tA.png)*Account page of Polkadot’s app*
+
+On your Ledger device, select the Polkadot menu to see Polkadot Ready on it (looks like my fingers were dirty…).
+
+![](https://miro.medium.com/max/828/0\*sd9IR5zpYjqTYyl9)
 
 Click on *Add via Ledger*:
 
-![](https://miro.medium.com/max/60/1\*kIiT4gv8zIirDvfFR-XtVQ.png?q=20)![](https://miro.medium.com/max/1139/1\*kIiT4gv8zIirDvfFR-XtVQ.png)*Add a ledger account*
+![](https://miro.medium.com/max/1139/1\*kIiT4gv8zIirDvfFR-XtVQ.png)*Add a ledger account*
 
 **Note**:
- if you already created an account on your ledger (with Ledger Live app 
-for example), you have to choose an unused account in the *Account type*.![](https://miro.medium.com/max/60/0\*TACPfu9MbFk68FM-?q=20)![](https://miro.medium.com/max/1559/0\*TACPfu9MbFk68FM-)
+if you already created an account on your ledger (with Ledger Live app
+for example), you have to choose an unused account in the *Account type*.
+
+![](https://miro.medium.com/max/1559/0\*TACPfu9MbFk68FM-)
 
 Click the *Save* button.
 
 ## Fund the account
 
-Next, you need to **add funds**
- to your account, from another account or from a centralized exchange 
-(if you don’t have any, maybe you can ask your grandma to send you some 
-:-)).
+Next, you need to **add funds** to your account, from another account or from a centralized exchange (if you don’t have any, maybe you can ask your grandma to send you some :-)).
 
 You can click on the account name to know the public address to send funds.
 
@@ -304,7 +303,7 @@ You can click on the account name to know the public address to send funds.
 
 Then, you have to bond your funds that will be used for staking. Go to the *Network / Staking tab.*
 
-**![](https://miro.medium.com/max/245/1\*H0AgcWW5BfuiRhJY_jzN1g.png)
+\*\*![](https://miro.medium.com/max/245/1\*H0AgcWW5BfuiRhJY_jzN1g.png)
 
 *Staking tab*
 
@@ -312,4 +311,80 @@ Go to the *Account actions* menu.![](https://miro.medium.com/max/1733/1\*CGKsrS8
 
 Click on *+Stash* (the *+Nominator* button will not work since Ledger device does not support batch transactions)*.*![](https://miro.medium.com/max/1071/0\*UipEtHYZ66s70x4f)*Bonding funds*
 
-\*\*
+Set the** total amount you want to bond for your nominations**, then click on the *Bond* button.![](https://miro.medium.com/max/1159/0\*\_GkfO4-V7cGd4eyU)*Sign bonding transaction*
+
+**
+
+Click on *Sign and Submit*, then review and approve the transaction on the Ledger device.![](https://miro.medium.com/max/1596/0\*zszfJRc7OfDgB1sB)*Nominator account with bonded funds*
+
+## Nominate validators
+
+Your funds are bonded, now you are ready to nominate. Click on the *Nominate* button next to your account (not the *+Nominator* button on the top).
+
+![](https://miro.medium.com/max/1065/1\*YL7FvzpM9fw7zi6uWd8TBQ.png)*Select validators*
+
+\*\*Here, you have to **search for the validators** you want to select in the **left panel **and click on it to move it to the right panel that represents the **accounts you nominate**. *See *[*recommended validators*](https://medium.com/bld-nodes/tutorial-how-to-stake-polkadot-kusama-on-chain-5ae50bd95aad#590c)
+
+When you have selected all the validators you want, click on *Nominate.*
+
+**![](https://miro.medium.com/max/1187/0\*qAg3UK2eqBE-tH45)
+
+Click on *Sign and Submit*, then review and approve the transaction on the Ledger device.
+
+![](https://miro.medium.com/max/60/0\*OCbZKigIqesBKOiX?q=20)![](https://miro.medium.com/max/1571/0\*OCbZKigIqesBKOiX)
+
+And that’s it, you have successfully set your nominations, your funds work for you now!
+
+[Jump to conclusion](https://medium.com/bld-nodes/tutorial-how-to-stake-polkadot-kusama-on-chain-5ae50bd95aad#d85d)
+
+# Recommended validators
+
+Here you can find the list of trustful and independent validators that we know to be serious and secure.
+
+## Kusama Network
+
+*   bLd Nodes (us): Hf8C626KBAjitMV7w8AhQWDCiPgUU47htEwbomq5mDMKeyL
+
+*   REPE: FaBN1AxtJu21x2cUqvdF5VcVUAfzfqyvJPvwgsdwo3pkdr9
+
+*   Polkadotters: FVAFUJhJy9tj1X4PaEXX3tDzjaBEVsVunABAdsDMD4ZYmWA
+
+*   PromoTeam Validator: Dm4uKxZJZHJbpZpfnYPiHnbgyHWKMU1s5h6X7kqjfYv1Xkk
+
+*   Stakenode_Powernode: CuiwESD49ggEAQ9131Gt948xw11PiWQNXkuR2R2Jt7rYSck
+
+## Polkadot Network
+
+*   Polkadotters: 16A4n4UQqgxw5ndeehPjUAobDNmuX2bBoPXVKj4xTe16ktRN
+
+## StaFi Protocol
+
+*   PromoTeam: 31dAkYPQWqLooi8STtH4u91ybv3DBtyT4Tdn8VZbkGYtPFfQ
+
+*   pathrocknetwork: 32yfaVgxp2bArkKotgiVrdqhbP17Lwc6KkmtgSZRazjuwpae
+
+*   oceanblock-ov: 35pwfNAzJKnnSxjbdoN8DdNPvXE2ChXiHL4Z4N5oDFdhMPoU
+
+*   Polkadotters: 32cHeCGWM3X8W8ypxxCaCgE43BpHt6QtmPFKKMFS7NG1QphQ
+
+## HydraDX
+
+*   Polkadotters: 7K296SU5tGTCkpYntSonyohsvvCZr2wmaKzCf9Ed6rAv6ij1
+
+## Darwina
+
+*   Polkadotters (Darwinia): 2q2y8DBhaTmgC2Au9tSXSshCkDXhmj9rPW945yxqBf52rGRK
+
+*   Polkadotters (Darwinia Crab): 5DvoL2BNoSm7wRt2tfZ6WW5QFrxm68GLv5SCrPQ4JBLjbvpL
+
+## Centrifuge
+
+*   Polkadotters: 4dCqn4vxVhWm15TFTUGxF6UrNx6zm2VDnS7RAHYFX3mov24q
+
+# Conclusion
+
+We have just seen here how to stake funds and become a real on-chain nominator in just a few simple steps.
+
+If you are staking on centralized exchanges, we encourage you to consider staking on-chain as this gives you an active role in the blockchain ecosystem besides a better reward (CEX have to pay themselves in one way or another right?).
+
+Please feel free to reach us with any question or difficulty you have.
