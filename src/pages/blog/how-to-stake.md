@@ -23,8 +23,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        A story about customer loyalty curabitur sed consectetur nisi. Integer
-        sit amet commodo massa.
+        Tutorial: how to stake Polkadot/Kusama on-chain.
       keyName: property
     - name: 'og:image'
       value: images/3.jpg
