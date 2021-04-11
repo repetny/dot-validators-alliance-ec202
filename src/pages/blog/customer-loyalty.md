@@ -47,8 +47,7 @@ In the **Polkadot**, \*\*Kusama \*\*or \*\*Parachain \*\*context, stakers are ca
 
 All chains based on the Polkadot (Substrate) framework use the [Nominated Proof of Stake](https://polkadot.network/launch-npos/) (NPoS) \*\*consensus \*\*protocol to secure the network: the [**Nominators**](https://wiki.polkadot.network/docs/en/learn-nominator) just nominates a list of trusted [**Validators**](https://wiki.polkadot.network/docs/en/learn-validator) who will validate the blocks and do the hard work of keeping the network secure.
 
-Being a nominator is mostly a passive role: once you set it up, you receive a regular reward. The only thing you have to care about is to manage the
-Validators that you elect.
+Being a nominator is mostly a passive role: once you set it up, you receive a regular reward. The only thing you have to care about is to manage the Validators that you elect.
 
 There are 3 simple steps to start being a nominator: **create account**, **bond funds** and **nominate**. In this guide, we will see how to nominate on Polkadot, these steps are exactly the same for Kusama or any parachain.
 
