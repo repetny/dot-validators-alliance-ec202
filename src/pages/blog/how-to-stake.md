@@ -35,8 +35,7 @@ seo:
       value: Tutorial - how to stake Polkadot/Kusama on-chain
     - name: 'twitter:description'
       value: >-
-        A story about customer loyalty curabitur sed consectetur nisi. Integer
-        sit amet commodo massa.
+        Tutorial: how to stake Polkadot/Kusama on-chain
     - name: 'twitter:image'
       value: images/3.jpg
       relativeUrl: true
