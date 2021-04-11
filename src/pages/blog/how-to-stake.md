@@ -19,7 +19,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Customer Loyalty Programs That Stick
+      value: Tutorial: how to stake Polkadot/Kusama on-chain
       keyName: property
     - name: 'og:description'
       value: >-
