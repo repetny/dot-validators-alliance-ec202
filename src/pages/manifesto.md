@@ -1,7 +1,7 @@
 ---
 title: Manifesto
 subtitle: The set of principles we will always honor.
-image: images/about.jpg
+image: images/IMG_5541.PNG
 image_alt: Team members in a conference room
 seo:
   title: Manifesto
