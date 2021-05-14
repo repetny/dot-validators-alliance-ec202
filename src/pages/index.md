@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/VA_webHeroImg.png
+    image: images/rainy-daffodil.png
     image_alt: App preview
     title: DOT Validator Alliance
     content: "We are a group of community leaders who decided to dedicate their professional lives to the Polkadot and its diverse ecosystem.\_\n\nFounded by Polkadotters, Promo Team, Repe, Pathrock Network\n"
