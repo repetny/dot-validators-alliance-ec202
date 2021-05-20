@@ -6,7 +6,7 @@ sections:
     image: images/rainy-daffodil.png
     image_alt: App preview
     title: DOT Validator Alliance
-    content: "We are a group of community leaders who decided to dedicate their professional lives to the Polkadot and its diverse ecosystem.\_\n\nFounded by Polkadotters, Promo Team, Repe, Pathrock Network and BlD nodes\n"
+    content: "We are a group of community leaders who decided to dedicate their professional lives to the Polkadot and its diverse ecosystem.\_\n\nFounded by Polkadotters, Promo Team, Repe, Pathrock Network and Bld nodes\n"
     actions:
       - label: Support Us
         url: '#nominate'
