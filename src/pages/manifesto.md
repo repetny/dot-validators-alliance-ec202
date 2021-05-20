@@ -49,7 +49,7 @@ And this is why we decided to join our forces, earn the trust of the community a
 
 5.  Validation is a service and its always connected with the support of our communities and nominators
 
-6.  None of us will have more than one validator in any network because we respect the decentralization
+6.  None of us will have more than two validator nodes in any network because we respect the decentralization
 
 7.  Our fees will never be higher than 10%
 
