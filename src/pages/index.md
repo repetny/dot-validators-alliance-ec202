@@ -249,7 +249,7 @@ seo:
       value: DOT Validators Alliance
       keyName: property
     - name: 'og:image'
-      value: /_static/app-assets/VA_colorWhite_Logo.png
+      value: /_static/app-assets/VA_colorWhite_Panel.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
