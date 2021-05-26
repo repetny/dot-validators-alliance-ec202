@@ -73,6 +73,8 @@ sections:
 
           *   Polkadotters - 16A4n4UQqgxw5ndeehPjUAobDNmuX2bBoPXVKj4xTe16ktRN
 
+          *   REPE - 15AvEyVsAjcmWFnTNmzvF1gkvd1x1P6uFp3u8wLa6wxX3294
+
           *   Stakenode - 15awHgV1np9jxyWC7pnMWAEgg8z2toLuCcJfWjtmA1cWHWQr
         actions:
           - label: Nominate
