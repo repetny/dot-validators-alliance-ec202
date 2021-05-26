@@ -1,9 +1,7 @@
 ---
 title: 'Tutorial: how to stake Polkadot/Kusama on-chain'
 author: src/data/authors/jane-doe.yaml
-excerpt: >-
-  A story about customer loyalty curabitur sed consectetur nisi. Integer sit
-  amet commodo massa.
+excerpt: How to stake on Polkadot/Kusama network. In-depth guide.
 date: '2021-04-15'
 thumb_image: images/polkadot.jpg
 thumb_image_alt: A group of people working in a cafe
