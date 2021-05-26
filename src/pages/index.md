@@ -211,6 +211,7 @@ sections:
           blockchain development, we aim to provide a secure and reliable
           service for our validator nodes.
         type: review_item
+        avatar: images/pink-tr-logo.png
   - section_id: call-to-action
     type: section_cta
     title: Join our community!
