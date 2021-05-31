@@ -106,6 +106,13 @@ sections:
 
 
           *   Polkadotters 32cHeCGWM3X8W8ypxxCaCgE43BpHt6QtmPFKKMFS7NG1QphQ
+
+
+          *   STAKENODE - 353SjE5jZNE3HsQxJr42QAazGzQ4KThwwR6U8sfzYjQpuSiv
+
+
+          *   STAKENODE_POWERNODE -
+          31tyuA9tSMdUasMS7zPycu8vnYkEmpNHdC37ELuhKtxkMXTK
         actions:
           - label: Nominate
             url: 'https://apps.stafi.io/#/explorer'
