@@ -52,6 +52,10 @@ sections:
 
 
           *   bLd Nodes - Hf8C626KBAjitMV7w8AhQWDCiPgUU47htEwbomq5mDMKeyL
+
+
+          *   STAKENODE POWERNODE -
+          CuiwESD49ggEAQ9131Gt948xw11PiWQNXkuR2R2Jt7rYSck
         actions:
           - label: Nominate
             url: >-
