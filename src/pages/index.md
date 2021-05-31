@@ -249,9 +249,9 @@ seo:
       value: DOT Validators Alliance
       keyName: property
     - name: 'og:image'
-      value: /_static/app-assets/VA_colorWhite_Panel.png
+      value: 'https://dotvalidators.org/images/aliancelogo.jpg'
       keyName: property
-      relativeUrl: true
+      relativeUrl: false
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
