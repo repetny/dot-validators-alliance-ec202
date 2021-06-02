@@ -31,7 +31,7 @@ seo:
     - name: 'twitter:description'
       value: 'Tutorial: how to stake Polkadot/Kusama on-chain'
     - name: 'twitter:image'
-      value: images/3.jpg
+      value: /_static/app-assets/VA_colorWhite_Panel.png
       relativeUrl: true
 template: post
 ---
