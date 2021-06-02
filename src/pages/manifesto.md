@@ -27,8 +27,8 @@ seo:
     - name: 'twitter:description'
       value: See Manifesto of Validator Alliance.
     - name: 'twitter:image'
-      value: /_static/app-assets/friendly-kale.PNG
-      relativeUrl: true
+      value: 'https://dotvalidators.org/images/IMG_5541.PNG'
+      relativeUrl: false
 template: page
 ---
 We are a group of community leaders who decided to dedicate their professional lives to the Polkadot and its diverse ecosystem. 
