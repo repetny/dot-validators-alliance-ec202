@@ -17,9 +17,9 @@ seo:
       value: Manifesto of Validator Alliance.
       keyName: property
     - name: 'og:image'
-      value: /_static/app-assets/robust-whale.PNG
+      value: 'https://dotvalidators.org/images/IMG_5541.PNG'
       keyName: property
-      relativeUrl: true
+      relativeUrl: false
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
