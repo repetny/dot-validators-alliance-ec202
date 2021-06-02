@@ -25,7 +25,7 @@ seo:
     - name: 'twitter:title'
       value: Manifesto of Validator Alliance
     - name: 'twitter:description'
-      value: This is the about page
+      value: See Manifesto of Validator Alliance.
     - name: 'twitter:image'
       value: /_static/app-assets/friendly-kale.PNG
       relativeUrl: true
