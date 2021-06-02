@@ -21,9 +21,9 @@ seo:
       value: 'Tutorial: how to stake Polkadot/Kusama on-chain.'
       keyName: property
     - name: 'og:image'
-      value: /_static/app-assets/VA_colorWhite_Panel.png
+      value: 'https://miro.medium.com/max/245/1*H0AgcWW5BfuiRhJY_jzN1g.png'
       keyName: property
-      relativeUrl: true
+      relativeUrl: false
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
