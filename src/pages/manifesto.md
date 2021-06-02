@@ -14,7 +14,7 @@ seo:
       value: Manifesto
       keyName: property
     - name: 'og:description'
-      value: This is the about page
+      value: Manifesto of Validator Alliance.
       keyName: property
     - name: 'og:image'
       value: /_static/app-assets/robust-whale.PNG
