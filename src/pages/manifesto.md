@@ -11,7 +11,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: About Us
+      value: Manifesto
       keyName: property
     - name: 'og:description'
       value: This is the about page
