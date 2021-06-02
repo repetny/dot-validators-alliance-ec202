@@ -27,7 +27,7 @@ seo:
     - name: 'twitter:description'
       value: This is the about page
     - name: 'twitter:image'
-      value: images/about.jpg
+      value: /_static/app-assets/friendly-kale.PNG
       relativeUrl: true
 template: page
 ---
