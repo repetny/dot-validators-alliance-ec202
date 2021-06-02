@@ -17,7 +17,7 @@ seo:
       value: This is the about page
       keyName: property
     - name: 'og:image'
-      value: images/about.jpg
+      value: /_static/app-assets/robust-whale.PNG
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
