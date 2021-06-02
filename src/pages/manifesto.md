@@ -23,7 +23,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About Us
+      value: Manifesto of Validator Alliance
     - name: 'twitter:description'
       value: This is the about page
     - name: 'twitter:image'
