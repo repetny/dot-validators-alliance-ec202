@@ -269,7 +269,7 @@ seo:
     - name: 'twitter:description'
       value: DOT Validators Alliance
     - name: 'twitter:image'
-      value: /_static/app-assets/VA_colorTransparent_Panel_Panel_transparent.png
-      relativeUrl: true
+      value: 'https://dotvalidators.org/images/aliancelogo.jpg'
+      relativeUrl: false
 template: landing
 ---
