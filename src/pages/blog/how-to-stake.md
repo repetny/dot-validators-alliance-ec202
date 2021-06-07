@@ -21,9 +21,9 @@ seo:
       value: 'Tutorial: how to stake Polkadot/Kusama on-chain.'
       keyName: property
     - name: 'og:image'
-      value: /_static/app-assets/stakepolkadot.jpg
+      value: 'https://dotvalidators.org/_static/app-assets/stakepolkadot.jpg'
       keyName: property
-      relativeUrl: true
+      relativeUrl: false
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
