@@ -32,8 +32,9 @@ seo:
     - name: 'twitter:description'
       value: 'Tutorial: how to stake Polkadot/Kusama on-chain'
     - name: 'twitter:image'
-      value: /_static/app-assets/stakepolkadot.jpg
-      relativeUrl: true
+      value: >-
+        https://preview--dot-validators-alliance-ec202.stackbit.dev/_static/app-assets/stakepolkadot.jpg
+      relativeUrl: false
 template: post
 ---
 In the **Polkadot**, \*\*Kusama \*\*or \*\*Parachain \*\*context, stakers are called **Nominators**.
