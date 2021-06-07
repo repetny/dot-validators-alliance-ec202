@@ -375,3 +375,7 @@ We have just seen here how to stake funds and become a real on-chain nominator i
 If you are staking on centralized exchanges, we encourage you to consider staking on-chain as this gives you an active role in the blockchain ecosystem besides a better reward (CEX have to pay themselves in one way or another right?).
 
 Please feel free to reach us with any question or difficulty you have.
+
+
+
+![](/\_static/app-assets/stakepolkadot.jpg)
