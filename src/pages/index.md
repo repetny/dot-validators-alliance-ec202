@@ -230,8 +230,11 @@ sections:
       - author: Stakenode
         avatar_alt: lorem-ipsum
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Stakenode is a getaway to the Polkadot economy. We deliver all
+          possible options for Proof-of-Stake tokens in the Polkadot ecosystem.
+          We provide Validator Services to all POS Polkadot projects bringing
+          you the possibility to stake Your tokens like $DOT $KSM $FIS $PCX with
+          other network coming.
         type: review_item
   - section_id: call-to-action
     type: section_cta
