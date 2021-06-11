@@ -236,6 +236,7 @@ sections:
           you the possibility to stake Your tokens like $DOT $KSM $FIS $PCX with
           other network coming.
         type: review_item
+        avatar: images/stakenode.jpeg
   - section_id: call-to-action
     type: section_cta
     title: Join our community!
