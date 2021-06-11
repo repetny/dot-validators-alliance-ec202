@@ -227,7 +227,7 @@ sections:
           service for our validator nodes.
         type: review_item
         avatar: images/pink-tr-logo.png
-      - author: lorem-ipsum
+      - author: Stakenode
         avatar_alt: lorem-ipsum
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
