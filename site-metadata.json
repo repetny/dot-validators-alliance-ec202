@@ -80,7 +80,7 @@
                         "label": "Telegram",
                         "url": "https://t.me/DotValidators",
                         "style": "link",
-                        "has_icon": true,
+                        "has_icon": false,
                         "icon": "twitter",
                         "icon_position": "left"
                     },
