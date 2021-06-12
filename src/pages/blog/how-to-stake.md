@@ -342,7 +342,7 @@ Here you can find the list of trustful and independent validators that we know t
 
 *   PromoTeam Validator: Dm4uKxZJZHJbpZpfnYPiHnbgyHWKMU1s5h6X7kqjfYv1Xkk
 
-*       Stakenode_Powernode - CuiwESD49ggEAQ9131Gt948xw11PiWQNXkuR2R2Jt7rYSck
+*         Stakenode_Powernode - CuiwESD49ggEAQ9131Gt948xw11PiWQNXkuR2R2Jt7rYSck
 
 ## Polkadot Network
 
@@ -362,9 +362,9 @@ Here you can find the list of trustful and independent validators that we know t
 
 *   oceanblock-ov: 35pwfNAzJKnnSxjbdoN8DdNPvXE2ChXiHL4Z4N5oDFdhMPoU
 
-*   *   STAKENODE_POWERNODE - 31tyuA9tSMdUasMS7zPycu8vnYkEmpNHdC37ELuhKtxkMXTK*   STAKENODE - 353SjE5jZNE3HsQxJr42QAazGzQ4KThwwR6U8sfzYjQpuSiv
+*   STAKENODE_POWERNODE - 31tyuA9tSMdUasMS7zPycu8vnYkEmpNHdC37ELuhKtxkMXTK
 
-*
+*   STAKENODE - 353SjE5jZNE3HsQxJr42QAazGzQ4KThwwR6U8sfzYjQpuSiv
 
 ## HydraDX
 
