@@ -342,26 +342,17 @@ Here you can find the list of trustful and independent validators that we know t
 
 *   PromoTeam Validator: Dm4uKxZJZHJbpZpfnYPiHnbgyHWKMU1s5h6X7kqjfYv1Xkk
 
-*   App preview on a phone and tablet
-    Kusama
-
-    Kusama is a scalable multi-chain network for radical innovation and early stage Polkadot deployments. Expect Chaos. No promises.
-
-    Our KSM validators:
-
-        REPE - FaBN1AxtJu21x2cUqvdF5VcVUAfzfqyvJPvwgsdwo3pkdr9
-
-        Polkadotters - FVAFUJhJy9tj1X4PaEXX3tDzjaBEVsVunABAdsDMD4ZYmWA
-
-        PromoTeam Validator - Dm4uKxZJZHJbpZpfnYPiHnbgyHWKMU1s5h6X7kqjfYv1Xkk
-
-        Stakenode_Powernode - CuiwESD49ggEAQ9131Gt948xw11PiWQNXkuR2R2Jt7rYSck
+*       Stakenode_Powernode - CuiwESD49ggEAQ9131Gt948xw11PiWQNXkuR2R2Jt7rYSck
 
 ## Polkadot Network
 
-*   *   *   Polkadotters - 16A4n4UQqgxw5ndeehPjUAobDNmuX2bBoPXVKj4xTe16ktRN*   REPE - 15AvEyVsAjcmWFnTNmzvF1gkvd1x1P6uFp3u8wLa6wxX3294*   Stakenode - 15awHgV1np9jxyWC7pnMWAEgg8z2toLuCcJfWjtmA1cWHWQr*   PromoTeam Validator - 12BkPLskXyXrHhktrinLxVFkPzzvCzCyVCaqHkUEoxMwSzeq
+*   Polkadotters - 16A4n4UQqgxw5ndeehPjUAobDNmuX2bBoPXVKj4xTe16ktRN
 
-*
+*   REPE - 15AvEyVsAjcmWFnTNmzvF1gkvd1x1P6uFp3u8wLa6wxX3294
+
+*   Stakenode - 15awHgV1np9jxyWC7pnMWAEgg8z2toLuCcJfWjtmA1cWHWQr
+
+*   PromoTeam Validator - 12BkPLskXyXrHhktrinLxVFkPzzvCzCyVCaqHkUEoxMwSzeq
 
 ## StaFi Protocol
 
@@ -371,11 +362,16 @@ Here you can find the list of trustful and independent validators that we know t
 
 *   oceanblock-ov: 35pwfNAzJKnnSxjbdoN8DdNPvXE2ChXiHL4Z4N5oDFdhMPoU
 
-*   Polkadotters: 32cHeCGWM3X8W8ypxxCaCgE43BpHt6QtmPFKKMFS7NG1QphQ
+*   *   STAKENODE_POWERNODE - 31tyuA9tSMdUasMS7zPycu8vnYkEmpNHdC37ELuhKtxkMXTK*   STAKENODE - 353SjE5jZNE3HsQxJr42QAazGzQ4KThwwR6U8sfzYjQpuSiv
+
+*
 
 ## HydraDX
 
 *   Polkadotters: 7K296SU5tGTCkpYntSonyohsvvCZr2wmaKzCf9Ed6rAv6ij1
+*   STAKENODE /01 - 7J4gcZRQSRkKMKsHZfN6JQXXGVrhQu3QHZBb3anqmVn94cT5
+*   STAKENODE - 7LiWT1bdaZy4JhQSzNdcL1WV4DfAU3cbY9KXcHtqtFhm8fNa
+*   PROMOTEAM VALIDATOR - 7NaMA63jMwq73dZXQtShsU67GhfaPJDhrWjkj2oFxn13rg9j
 
 ## Darwina
 
