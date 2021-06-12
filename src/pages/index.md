@@ -79,6 +79,9 @@ sections:
           *   REPE - 15AvEyVsAjcmWFnTNmzvF1gkvd1x1P6uFp3u8wLa6wxX3294
 
           *   Stakenode - 15awHgV1np9jxyWC7pnMWAEgg8z2toLuCcJfWjtmA1cWHWQr
+
+          *   PromoTeam Validator -
+          12BkPLskXyXrHhktrinLxVFkPzzvCzCyVCaqHkUEoxMwSzeq
         actions:
           - label: Nominate
             url: >-
