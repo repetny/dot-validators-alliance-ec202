@@ -342,9 +342,26 @@ Here you can find the list of trustful and independent validators that we know t
 
 *   PromoTeam Validator: Dm4uKxZJZHJbpZpfnYPiHnbgyHWKMU1s5h6X7kqjfYv1Xkk
 
+*   App preview on a phone and tablet
+    Kusama
+
+    Kusama is a scalable multi-chain network for radical innovation and early stage Polkadot deployments. Expect Chaos. No promises.
+
+    Our KSM validators:
+
+        REPE - FaBN1AxtJu21x2cUqvdF5VcVUAfzfqyvJPvwgsdwo3pkdr9
+
+        Polkadotters - FVAFUJhJy9tj1X4PaEXX3tDzjaBEVsVunABAdsDMD4ZYmWA
+
+        PromoTeam Validator - Dm4uKxZJZHJbpZpfnYPiHnbgyHWKMU1s5h6X7kqjfYv1Xkk
+
+        Stakenode_Powernode - CuiwESD49ggEAQ9131Gt948xw11PiWQNXkuR2R2Jt7rYSck
+
 ## Polkadot Network
 
-*   Polkadotters: 16A4n4UQqgxw5ndeehPjUAobDNmuX2bBoPXVKj4xTe16ktRN
+*   *   *   Polkadotters - 16A4n4UQqgxw5ndeehPjUAobDNmuX2bBoPXVKj4xTe16ktRN*   REPE - 15AvEyVsAjcmWFnTNmzvF1gkvd1x1P6uFp3u8wLa6wxX3294*   Stakenode - 15awHgV1np9jxyWC7pnMWAEgg8z2toLuCcJfWjtmA1cWHWQr*   PromoTeam Validator - 12BkPLskXyXrHhktrinLxVFkPzzvCzCyVCaqHkUEoxMwSzeq
+
+*
 
 ## StaFi Protocol
 
@@ -377,7 +394,5 @@ We have just seen here how to stake funds and become a real on-chain nominator i
 If you are staking on centralized exchanges, we encourage you to consider staking on-chain as this gives you an active role in the blockchain ecosystem besides a better reward (CEX have to pay themselves in one way or another right?).
 
 Please feel free to reach us with any question or difficulty you have.
-
-
 
 ![](/\_static/app-assets/stakepolkadot.jpg)
