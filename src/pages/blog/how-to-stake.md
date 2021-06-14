@@ -342,7 +342,7 @@ Here you can find the list of trustful and independent validators that we know t
 
 *   PromoTeam Validator: Dm4uKxZJZHJbpZpfnYPiHnbgyHWKMU1s5h6X7kqjfYv1Xkk
 
-*         Stakenode_Powernode - CuiwESD49ggEAQ9131Gt948xw11PiWQNXkuR2R2Jt7rYSck
+*           Stakenode_Powernode - CuiwESD49ggEAQ9131Gt948xw11PiWQNXkuR2R2Jt7rYSck
 
 ## Polkadot Network
 
@@ -372,6 +372,7 @@ Here you can find the list of trustful and independent validators that we know t
 *   STAKENODE /01 - 7J4gcZRQSRkKMKsHZfN6JQXXGVrhQu3QHZBb3anqmVn94cT5
 *   STAKENODE - 7LiWT1bdaZy4JhQSzNdcL1WV4DfAU3cbY9KXcHtqtFhm8fNa
 *   PROMOTEAM VALIDATOR - 7NaMA63jMwq73dZXQtShsU67GhfaPJDhrWjkj2oFxn13rg9j
+*   pathrocknetwork - 7KpbZwX3eFC8TSRwV1igsfBDDWSVRu7gvNxgotEBeDxb7rP2
 
 ## Darwina
 
