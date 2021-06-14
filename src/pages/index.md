@@ -134,10 +134,12 @@ sections:
 
           *   STAKENODE /01 - 7J4gcZRQSRkKMKsHZfN6JQXXGVrhQu3QHZBb3anqmVn94cT5
 
-          *    STAKENODE - 7LiWT1bdaZy4JhQSzNdcL1WV4DfAU3cbY9KXcHtqtFhm8fNa
+          *   STAKENODE - 7LiWT1bdaZy4JhQSzNdcL1WV4DfAU3cbY9KXcHtqtFhm8fNa
 
           *   PROMOTEAM VALIDATOR -
           7NaMA63jMwq73dZXQtShsU67GhfaPJDhrWjkj2oFxn13rg9j
+
+          *   pathrocknetwork - 7KpbZwX3eFC8TSRwV1igsfBDDWSVRu7gvNxgotEBeDxb7rP2
         image_alt: lorem-ipsum
         actions:
           - label: Nominate
