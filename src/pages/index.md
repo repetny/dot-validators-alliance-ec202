@@ -177,7 +177,7 @@ sections:
             type: action
         type: feature_item
         image: images/darwinia.jpg
-      - title: lorem-ipsum
+      - title: Dock
         content: >-
           ## Lorem ipsum
 
