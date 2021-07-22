@@ -178,17 +178,15 @@ sections:
         type: feature_item
         image: images/darwinia.jpg
       - title: Dock
-        content: >-
-          ## Lorem ipsum
+        content: >
+          Dock.io is a new professional social media network. But it’s built
+          with blockchain technology. The team behind the project wants to
+          bypass data monopolies like LinkedIn, Upwork, Glassdoor and others who
+          control the recruiting industry. And give back the power to users and
+          companies.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   Polkadotters - 3EBcABMK7dGapFnkn1xcxUkuLA6szTfw9GMaYiY335SyySLo
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
