@@ -188,7 +188,7 @@ sections:
 
           *   Polkadotters - 3EBcABMK7dGapFnkn1xcxUkuLA6szTfw9GMaYiY335SyySLo
 
-          *   Pathrock - 3Fx3GPCR6F3Wc8EyoJY7fxEJv2ch1bHXCy8AKUCEKfQRbifD
+          *   pathrocknetwork - 3Fx3GPCR6F3Wc8EyoJY7fxEJv2ch1bHXCy8AKUCEKfQRbifD
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
