@@ -192,7 +192,7 @@ sections:
         image_alt: lorem-ipsum
         actions:
           - label: Nominate
-            url: lorem-ipsum
+            url: 'https://fe.dock.io/#/staking'
             style: link
             has_icon: false
             icon: arrow-left
