@@ -190,7 +190,16 @@ sections:
 
           *   pathrocknetwork - 3Fx3GPCR6F3Wc8EyoJY7fxEJv2ch1bHXCy8AKUCEKfQRbifD
         image_alt: lorem-ipsum
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: left
+            new_window: false
+            no_follow: false
+            type: action
         type: feature_item
         image: images/dockio.png
   - section_id: reviews
