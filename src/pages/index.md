@@ -191,7 +191,7 @@ sections:
           *   pathrocknetwork - 3Fx3GPCR6F3Wc8EyoJY7fxEJv2ch1bHXCy8AKUCEKfQRbifD
         image_alt: lorem-ipsum
         actions:
-          - label: lorem-ipsum
+          - label: Nominate
             url: lorem-ipsum
             style: link
             has_icon: false
