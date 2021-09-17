@@ -127,7 +127,11 @@ sections:
           assets.
 
 
-          *   Polkadotters - 7K296SU5tGTCkpYntSonyohsvvCZr2wmaKzCf9Ed6rAv6ij1
+          *   POLKADOTTERS | VALIDATORALLIANCE -
+          7KTekrYqsZ8PDfNmur2bSRfKq3xwEyVGsq4xmjuP28pyWpKQ
+
+          *   REPE «VALIDATOR ALLIANCE» -
+          7K296SU5tGTCkpYntSonyohsvvCZr2wmaKzCf9Ed6rAv6ij1
 
           *   STAKENODE /01 - 7J4gcZRQSRkKMKsHZfN6JQXXGVrhQu3QHZBb3anqmVn94cT5
 
