@@ -281,7 +281,7 @@ sections:
         has_icon: false
         icon: arrow-right
       - label: Discord
-        url: 'https://discord.gg/YUUStKka'
+        url: 'https://discord.com/invite/Kwfbe6YRAd'
         style: primary
         has_icon: false
         icon: arrow-left
