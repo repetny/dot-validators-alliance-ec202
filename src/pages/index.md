@@ -130,7 +130,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: HydraDX
-        content: >
+        content: >+
           HydraDX is a cross-chain liquidity protocol built on Substrate. It is
           a base layer for financial use cases, currently - immediate exchanging
           assets.
@@ -149,7 +149,19 @@ sections:
           *   PROMOTEAM VALIDATOR -
           7NaMA63jMwq73dZXQtShsU67GhfaPJDhrWjkj2oFxn13rg9j
 
+          *   PROMOTEAM VALIDATOR /01 -
+          7K9cQoUjyAZJ7PXoX4KyqJm4F1AgqgjTUn9FRWBcgPA8h2PN
+
+          *   Bld Nodes - 7KuRtPEceNWDryN2yPTiQ7ADYD7FTBF72TkSiAAk4DvGobN6
+
           *   pathrocknetwork - 7KpbZwX3eFC8TSRwV1igsfBDDWSVRu7gvNxgotEBeDxb7rP2
+
+          *   Crifferent - 7NzHitwWA5UidhXiNJSTipSwbXgDfikKefdY9kB69sBJxPS7
+
+          *   Crifferent - 7JErgFE8wJazMqSdCja9LQqHx8npBMGZUNxPtZeFQUWhhsnE
+
+
+
         image_alt: lorem-ipsum
         actions:
           - label: Nominate
