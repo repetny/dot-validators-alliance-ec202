@@ -227,9 +227,9 @@ sections:
         type: feature_item
         image: images/dockio.png
       - title: Shiden
-        content: >+
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        content: >
+          Shiden Network is a multi-chain decentralized application layer on
+          Kusama Network.
 
 
           *   Polkadotters - Z7c8uESo3BPPChURHLCwSQ2ZpX4ftpKTHYdrVL7RE47JLus
@@ -245,7 +245,6 @@ sections:
           *   Iceberg Nodes - WywoJ3jqnpCeFchBV3dJpjHWhDiD2C5UaDm2Nk4FaV2aNLi
 
           *   Bld Nodes - VxKQJYPqPQhuF4haU4M2BGYy434f2KWo2Ak4Z2PjUhtrChH
-
         image_alt: lorem-ipsum
         actions: []
         image: images/tFOtjrr3_400x400.jpg
