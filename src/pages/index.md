@@ -331,6 +331,11 @@ sections:
           other network coming.
         type: review_item
         avatar: images/stakenode.jpeg
+      - author: lorem-ipsum
+        avatar_alt: lorem-ipsum
+        content: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
   - section_id: call-to-action
     type: section_cta
     title: Join our community!
