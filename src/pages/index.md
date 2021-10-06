@@ -249,17 +249,21 @@ sections:
         actions: []
         image: images/tFOtjrr3_400x400.jpg
       - title: Centrifuge
-        content: >-
-          ## Lorem ipsum
+        content: >+
+          Centrifuge bridges assets like invoices, real estate, and royalties to
+          DeFi.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   Crifferent - 4e7Zq4GiS71uKaNeqhfHKwxEQ9MBCQSPQv9knapyh9JhsY54
 
+          *   Polkadotters - 4eX49f1wi4HvE2ErVnbweNeCbrxBNaLTJSihvgGSmjVE2W9e
 
-          - Lorem ipsum
+          *   PromoTeam - 4gpwkGywqrMjWPSmJ2477yYN4A1V9h73xXUEaQ6sGRdMGriH
 
-          - dolor sit amet
+          *   PromoTeam - 4cM1vhuDJUtohuzQ9bZV4zs1eEEcDUxbzP6yhkTSPJfB4goZ
+
+          *   Pathrock - 4gYKLcvGPG2hiAT5Hizmb2ar2JgDNKgJfFE9HaunnUV628rN
+
         image_alt: lorem-ipsum
         actions: []
   - section_id: reviews
