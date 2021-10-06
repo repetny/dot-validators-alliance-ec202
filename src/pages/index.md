@@ -334,8 +334,10 @@ sections:
       - author: Crifferent
         avatar_alt: lorem-ipsum
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Sik is a true Web3 native. Working for a blockchain company full-time,
+          core member of HydraDX, councilor/registrar/moderator/ambassador in
+          many DotSama projects and also running safe and reliable self-hosted
+          validators and collators at crifferent.de.
         avatar: images/crifferent_logo_bg.png
       - author: lorem-ipsum
         avatar_alt: lorem-ipsum
