@@ -342,8 +342,13 @@ sections:
       - author: lorem-ipsum
         avatar_alt: lorem-ipsum
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Hey, I'm Luca Poggi from Italy. I spent and also I'm spending a lot of
+          time in studying Polkadot/Kusama ecosystem and helping other people:
+          I'm admin of Polkadot Network Italia, Kusama Network Italia and almost
+          all Parachains Italian groups on Telegram, author of Polkadot.Pro
+          Nominator Staking Guide, developer of @KanariaEmoteSwapsBot Telegram
+          bot (for swapping emotes between users on Kanaria Eggs) and
+          @ChainX_smartBot. 
   - section_id: call-to-action
     type: section_cta
     title: Join our community!
