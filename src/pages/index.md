@@ -339,7 +339,7 @@ sections:
           many DotSama projects and also running safe and reliable self-hosted
           validators and collators at crifferent.de.
         avatar: images/crifferent_logo_bg.png
-      - author: lorem-ipsum
+      - author: Iceberg Nodes
         avatar_alt: lorem-ipsum
         content: >-
           Hey, I'm Luca Poggi from Italy. I spent and also I'm spending a lot of
