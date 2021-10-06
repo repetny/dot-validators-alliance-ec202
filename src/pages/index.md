@@ -29,7 +29,7 @@ sections:
       - title: Kusama
         image: images/kusama.png
         image_alt: App preview on a phone and tablet
-        content: >
+        content: >+
           Kusama is a scalable multi-chain network for radical innovation and
           early stage Polkadot deployments. Expect Chaos. No promises.
 
@@ -56,6 +56,15 @@ sections:
 
           *   STAKENODE POWERNODE -
           CuiwESD49ggEAQ9131Gt948xw11PiWQNXkuR2R2Jt7rYSck
+
+
+          *   Iceberg Nodes - Eices1KaGTYqiazfjJpwyjnz5UzqTxULeYqnmeJNz49gs19
+
+
+          *   Crifferent - Hf8C626KBAjitMV7w8AhQWDCiPgUU47htEwbomq5mDMKeyL
+
+
+
         actions:
           - label: Nominate
             url: >-
