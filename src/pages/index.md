@@ -240,6 +240,7 @@ sections:
           - dolor sit amet
         image_alt: lorem-ipsum
         actions: []
+        image: images/tFOtjrr3_400x400.jpg
       - title: lorem-ipsum
         content: >-
           ## Lorem ipsum
