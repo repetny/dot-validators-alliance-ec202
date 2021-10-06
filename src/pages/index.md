@@ -248,7 +248,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         image: images/tFOtjrr3_400x400.jpg
-      - title: lorem-ipsum
+      - title: Centrifuge
         content: >-
           ## Lorem ipsum
 
