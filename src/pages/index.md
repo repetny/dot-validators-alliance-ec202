@@ -331,7 +331,7 @@ sections:
           other network coming.
         type: review_item
         avatar: images/stakenode.jpeg
-      - author: lorem-ipsum
+      - author: Crifferent
         avatar_alt: lorem-ipsum
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
