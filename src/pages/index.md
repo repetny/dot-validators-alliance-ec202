@@ -266,6 +266,7 @@ sections:
 
         image_alt: lorem-ipsum
         actions: []
+        image: images/KM_4CoiV.jpg
   - section_id: reviews
     type: section_reviews
     background: white
