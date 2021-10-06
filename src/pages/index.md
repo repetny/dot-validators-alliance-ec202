@@ -227,17 +227,25 @@ sections:
         type: feature_item
         image: images/dockio.png
       - title: Shiden
-        content: >-
-          ## Lorem ipsum
-
-
+        content: >+
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-          - Lorem ipsum
+          *   Polkadotters - Z7c8uESo3BPPChURHLCwSQ2ZpX4ftpKTHYdrVL7RE47JLus
 
-          - dolor sit amet
+          *   Stakenode - bUVmJR3gu1hi9qa41pzFWWfFP4QVUYPyntNKjhort4BPovK
+
+          *   Pathrock - W8bwUPJssNzhq7yqgj2qX2As9Bx5K9Laa9zJHsrAPhkCYon
+
+          *   PromoTeam -ZaoZJFKZ3GE6Vjy74fBwTRqndq8ro43qyu3Yw7DYvzdJSq9
+
+          *   PromoTeam - av6AYeM556wzE6ct1RKyCfTnZNXCfhWuxc93PVo7BWmXsMW
+
+          *   Iceberg Nodes - WywoJ3jqnpCeFchBV3dJpjHWhDiD2C5UaDm2Nk4FaV2aNLi
+
+          *   Bld Nodes - VxKQJYPqPQhuF4haU4M2BGYy434f2KWo2Ak4Z2PjUhtrChH
+
         image_alt: lorem-ipsum
         actions: []
         image: images/tFOtjrr3_400x400.jpg
