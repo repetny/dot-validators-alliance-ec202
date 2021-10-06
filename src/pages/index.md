@@ -226,7 +226,7 @@ sections:
             type: action
         type: feature_item
         image: images/dockio.png
-      - title: lorem-ipsum
+      - title: Shiden
         content: >-
           ## Lorem ipsum
 
