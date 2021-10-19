@@ -346,7 +346,6 @@ sections:
           time in studying Polkadot/Kusama ecosystem and helping other people:
           I'm admin of Polkadot Network Italia, Kusama Network Italia and almost
           all Parachains Italian groups on Telegram.
-        avatar: images/luca.jpg
   - section_id: call-to-action
     type: section_cta
     title: Join our community!
